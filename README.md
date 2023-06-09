@@ -1,6 +1,6 @@
 # MyProjects-Page
 
-My Projects Page
+**My Projects Page**
 
 In this assignment, let's build a My Projects Page by applying the concepts we learned till now. You can use the Bootstrap concepts and CCBP UI Kit as well.
 
@@ -22,10 +22,15 @@ Use the image URLs given below.
 
 
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/software-developer-img.png
+
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/advanced-technologies-img.png
+
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-img.png
+
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/food-img.png
+
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/news-paper-img.png
+
 
 
 **CSS Colors used:**
